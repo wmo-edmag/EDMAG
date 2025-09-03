@@ -19,9 +19,9 @@ The Environmental Data Management Advisory Group (EDMAG) provides expert advice 
 
 ## Initial tasks
 
-With the support of a wide collaborator network of future experts (where "future expert" is defined as a contributor who's experience is currently limited to their own organisation's practices)
+With the support of a wide collaborator network of future experts (where "future expert" is defined as a contributor who's experience is currently limited to their own organisation's practices):
 
-1. Extend WCCDM-OBS with additional schema(s) to make is useful in practice
+1. Extend WCCDM-OBS with additional schema(s) to make it useful in practice
 2. Demonstrate the use of PROV with WCCDM-OBS to provide full provenance metadata
 3. Survey collaborator network, document current practices and propose standardised methodology for:
     - Quality control and error checking
